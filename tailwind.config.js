@@ -1,6 +1,7 @@
 const path = require("path")
 
 module.exports = {
+  mode: "jit",
   presets: [require("@medusajs/ui-preset")],
   content: [
     "./src/app/**/*.{js,ts,jsx,tsx}",
