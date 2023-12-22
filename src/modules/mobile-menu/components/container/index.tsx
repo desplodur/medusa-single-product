@@ -6,7 +6,7 @@ type ContainerProps = {
 }
 
 const Container = ({ children }: ContainerProps) => {
-  const { state, close, toggle } = useMobileMenu()
+  const { state, toggle } = useMobileMenu()
 
   const menu_variants = {
     open: {
