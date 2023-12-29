@@ -1944,11 +1944,6 @@
   "resolved" "https://registry.npmjs.org/@next/swc-darwin-arm64/-/swc-darwin-arm64-14.0.0.tgz"
   "version" "14.0.0"
 
-"@next/swc-darwin-x64@14.0.0":
-  "integrity" "sha512-4YyQLMSaCgX/kgC1jjF3s3xSoBnwHuDhnF6WA1DWNEYRsbOOPWjcYhv8TKhRe2ApdOam+VfQSffC4ZD+X4u1Cg=="
-  "resolved" "https://registry.npmjs.org/@next/swc-darwin-x64/-/swc-darwin-x64-14.0.0.tgz"
-  "version" "14.0.0"
-
 "@nodelib/fs.scandir@2.1.5":
   "integrity" "sha512-vq24Bq3ym5HEQm2NKCr3yXDwjc7vTsEThRDnkp2DK9p1uqLR+DHurm/NOTo0KG7HYHU7eppKZj3MyqYuMBf62g=="
   "resolved" "https://registry.npmjs.org/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz"

@@ -43,7 +43,7 @@ const Container = ({ children }: ContainerProps) => {
         className="absolute left-0 right-0 bottom-0 bg-primary h-[90%] flex flex-col items-center py-6"
         variants={link_variants}
       >
-        {state ? children : <h1 className="text-white">Menu</h1>}
+        {state ? children : <h1 className="text-white font-knewave">Menu2</h1>}
       </motion.div>
     </motion.div>
   )
